@@ -48,4 +48,8 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/parvkajla/Data-Structure/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
