@@ -16,6 +16,7 @@ Questions, Assignments, Project related to Data Structure.
 | ------- |
 | [0162-find-peak-element](https://github.com/parvkajla/Data-Structure/tree/master/0162-find-peak-element) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
+| [0441-arranging-coins](https://github.com/parvkajla/Data-Structure/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/parvkajla/Data-Structure/tree/master/0062-unique-paths) |
+| [0441-arranging-coins](https://github.com/parvkajla/Data-Structure/tree/master/0441-arranging-coins) |
 ## Combinatorics
 |  |
 | ------- |
