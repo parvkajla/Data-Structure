@@ -10,6 +10,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0162-find-peak-element](https://github.com/parvkajla/Data-Structure/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/parvkajla/Data-Structure/tree/master/0198-house-robber) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/parvkajla/Data-Structure/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/parvkajla/Data-Structure/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Binary Search
 |  |
@@ -17,6 +18,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0162-find-peak-element](https://github.com/parvkajla/Data-Structure/tree/master/0162-find-peak-element) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
 | [0441-arranging-coins](https://github.com/parvkajla/Data-Structure/tree/master/0441-arranging-coins) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/parvkajla/Data-Structure/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/parvkajla/Data-Structure/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -54,4 +57,8 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/parvkajla/Data-Structure/tree/master/0693-binary-number-with-alternating-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/parvkajla/Data-Structure/tree/master/2300-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
