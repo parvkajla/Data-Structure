@@ -69,9 +69,18 @@ Questions, Assignments, Project related to Data Structure.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parvkajla/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parvkajla/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parvkajla/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
