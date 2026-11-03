@@ -10,6 +10,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0055-jump-game](https://github.com/parvkajla/Data-Structure/tree/master/0055-jump-game) |
 | [0162-find-peak-element](https://github.com/parvkajla/Data-Structure/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/parvkajla/Data-Structure/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/parvkajla/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/parvkajla/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
@@ -21,6 +22,7 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/parvkajla/Data-Structure/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/parvkajla/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
 | [0441-arranging-coins](https://github.com/parvkajla/Data-Structure/tree/master/0441-arranging-coins) |
@@ -40,6 +42,7 @@ Questions, Assignments, Project related to Data Structure.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parvkajla/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/parvkajla/Data-Structure/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Greedy
 |  |
@@ -92,6 +95,7 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parvkajla/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/parvkajla/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/parvkajla/Data-Structure/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
