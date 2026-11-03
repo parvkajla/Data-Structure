@@ -1,24 +1,28 @@
 class Solution {
-    public int[] maxSlidingWindow(int[] nums, int k) {
-        if (nums.length == 0 || k == 0) {
-            return new int[0];
-        }
-        int [] list = new int[nums.length - k + 1 ];
-        int ansIndex = 0;
-        Deque<Integer> dq = new ArrayDeque<>();
-        for (int i = 0; i < nums.length; i++) {
-            while (dq.size() > 0 && dq.peek() < i - k + 1) {
-                dq.removeFirst();
-            }
-            while (dq.size() > 0 && nums[i] > nums[dq.peekLast()]) {
-                dq.removeLast();
-            }
-            dq.addLast(i);
-            if (i >= k - 1) {
-                list[ansIndex++]=nums[dq.peekFirst()];
-
-            }
-        }
-        return list;
-    }
+    public int[] maxSlidingWindow(int[] a, int k) {		
+		if (a == null || k <= 0) {
+			return new int[0];
+		}
+		int n = a.length;
+		int[] r = new int[n-k+1];
+		int ri = 0;
+		// store index
+		Deque<Integer> q = new ArrayDeque<>();
+		for (int i = 0; i < a.length; i++) {
+			// remove numbers out of range k
+			while (!q.isEmpty() && q.peekFirst() < i - k + 1) {
+				q.pollFirst();
+			}
+			// remove smaller numbers in k range as they are useless
+			while (!q.isEmpty() && a[q.peekLast()] < a[i]) {
+				q.pollLast();
+			}
+			// q contains index... r contains content
+			q.offer(i);
+			if (i >= k - 1) {
+				r[ri++] = a[q.peek()];
+			}
+		}
+		return r;
+	}
 }
