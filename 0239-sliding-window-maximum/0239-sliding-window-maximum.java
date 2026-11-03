@@ -5,12 +5,12 @@ class Solution {
 		}
 		int n = a.length;
 		int[] r = new int[n-k+1];
-		int ri = 0;
+		int j = 0;
 		// store index
 		Deque<Integer> q = new ArrayDeque<>();
 		for (int i = 0; i < a.length; i++) {
 			// remove numbers out of range k
-			while (!q.isEmpty() && q.peekFirst() < i - k + 1) {
+			if (!q.isEmpty() && q.peekFirst() < i - k + 1) {
 				q.pollFirst();
 			}
 			// remove smaller numbers in k range as they are useless
@@ -20,7 +20,7 @@ class Solution {
 			// q contains index... r contains content
 			q.offer(i);
 			if (i >= k - 1) {
-				r[ri++] = a[q.peek()];
+				r[j++] = a[q.peek()];
 			}
 		}
 		return r;
