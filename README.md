@@ -16,6 +16,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
 | [0713-subarray-product-less-than-k](https://github.com/parvkajla/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/parvkajla/Data-Structure/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parvkajla/Data-Structure/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/parvkajla/Data-Structure/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -47,6 +48,7 @@ Questions, Assignments, Project related to Data Structure.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parvkajla/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/parvkajla/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/parvkajla/Data-Structure/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Greedy
 |  |
@@ -59,6 +61,7 @@ Questions, Assignments, Project related to Data Structure.
 | ------- |
 | [0062-unique-paths](https://github.com/parvkajla/Data-Structure/tree/master/0062-unique-paths) |
 | [0441-arranging-coins](https://github.com/parvkajla/Data-Structure/tree/master/0441-arranging-coins) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Combinatorics
 |  |
@@ -96,6 +99,7 @@ Questions, Assignments, Project related to Data Structure.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parvkajla/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/parvkajla/Data-Structure/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +108,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0239-sliding-window-maximum](https://github.com/parvkajla/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/parvkajla/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/parvkajla/Data-Structure/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 ## Queue
 |  |
 | ------- |
