@@ -40,6 +40,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0055-jump-game](https://github.com/parvkajla/Data-Structure/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/parvkajla/Data-Structure/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/parvkajla/Data-Structure/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/parvkajla/Data-Structure/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/parvkajla/Data-Structure/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
@@ -91,6 +92,7 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parvkajla/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/parvkajla/Data-Structure/tree/master/0072-edit-distance) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
