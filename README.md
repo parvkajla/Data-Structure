@@ -23,6 +23,7 @@ Questions, Assignments, Project related to Data Structure.
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/parvkajla/Data-Structure/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/parvkajla/Data-Structure/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3693-climbing-stairs-ii](https://github.com/parvkajla/Data-Structure/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parvkajla/Data-Structure/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/parvkajla/Data-Structure/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3693-climbing-stairs-ii](https://github.com/parvkajla/Data-Structure/tree/master/3693-climbing-stairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
