@@ -17,6 +17,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
 | [0713-subarray-product-less-than-k](https://github.com/parvkajla/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/parvkajla/Data-Structure/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parvkajla/Data-Structure/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -48,6 +49,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
 | [0583-delete-operation-for-two-strings](https://github.com/parvkajla/Data-Structure/tree/master/0583-delete-operation-for-two-strings) |
+| [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parvkajla/Data-Structure/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/parvkajla/Data-Structure/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3693-climbing-stairs-ii](https://github.com/parvkajla/Data-Structure/tree/master/3693-climbing-stairs-ii) |
@@ -70,6 +72,7 @@ Questions, Assignments, Project related to Data Structure.
 | ------- |
 | [0062-unique-paths](https://github.com/parvkajla/Data-Structure/tree/master/0062-unique-paths) |
 | [0441-arranging-coins](https://github.com/parvkajla/Data-Structure/tree/master/0441-arranging-coins) |
+| [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Combinatorics
@@ -141,4 +144,16 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/parvkajla/Data-Structure/tree/master/0583-delete-operation-for-two-strings) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
