@@ -180,5 +180,6 @@ Questions, Assignments, Project related to Data Structure.
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/parvkajla/Data-Structure/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
