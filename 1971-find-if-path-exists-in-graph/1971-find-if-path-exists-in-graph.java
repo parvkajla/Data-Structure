@@ -1,31 +1,34 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        ArrayList<ArrayList<Integer>> adj=new ArrayList<>(n);
-        for(int i=0;i<n;i++){
-            adj.add(new ArrayList<>());
+        ArrayList<ArrayList<Integer>> graph= new ArrayList<>();
+        for(int i=0; i<n; i++){
+            graph.add(new ArrayList<>());
         }
-        for(int i=0;i<edges.length;i++){
-            addEdge(adj,edges[i][0],edges[i][1]);
+        for (int[] edge : edges) {
+            graph.get(edge[0]).add(edge[1]);
+            graph.get(edge[1]).add(edge[0]);
         }
-        boolean[] visited=new boolean[n];
-        return dfs(adj,source,destination,visited);
-    }
-    public boolean dfs(ArrayList<ArrayList<Integer>> adj, int source, int destination, boolean[] visited) {
-        if(source==destination) {
-            return true;
-        }
-        visited[source]=true;
-        for(int k : adj.get(source)) {
-            if(!visited[k]) {
-                if(dfs(adj,k,destination,visited)) {
-                    return true;
+        Queue<Integer> queue = new LinkedList<>();
+        boolean[] visited = new boolean[n];
+        
+        queue.offer(source);
+        visited[source] = true;
+
+        while (!queue.isEmpty()) {
+            int curr = queue.poll();
+
+            if (curr == destination) {
+                return true;
+            }
+
+            for (int neighbor : graph.get(curr)) {
+                if (!visited[neighbor]) {
+                    visited[neighbor] = true;
+                    queue.offer(neighbor);
                 }
             }
         }
+
         return false;
-    }
-    private void addEdge(ArrayList<ArrayList<Integer>> adj, int u, int v) {
-        adj.get(u).add(v);
-        adj.get(v).add(u);
     }
 }
