@@ -19,6 +19,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0713-subarray-product-less-than-k](https://github.com/parvkajla/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/parvkajla/Data-Structure/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/parvkajla/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parvkajla/Data-Structure/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -119,6 +120,7 @@ Questions, Assignments, Project related to Data Structure.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parvkajla/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/parvkajla/Data-Structure/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/parvkajla/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -180,6 +182,7 @@ Questions, Assignments, Project related to Data Structure.
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/parvkajla/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/parvkajla/Data-Structure/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
