@@ -24,7 +24,7 @@ class Solution {
         }
         return false;
     }
-    public static void addEdge(ArrayList<ArrayList<Integer>> adj, int u, int v) {
+    private void addEdge(ArrayList<ArrayList<Integer>> adj, int u, int v) {
         adj.get(u).add(v);
         adj.get(v).add(u);
     }
