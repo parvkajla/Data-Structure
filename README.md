@@ -92,6 +92,7 @@ Questions, Assignments, Project related to Data Structure.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/parvkajla/Data-Structure/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/parvkajla/Data-Structure/tree/master/0693-binary-number-with-alternating-bits) |
 ## Two Pointers
 |  |
@@ -156,4 +157,8 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/parvkajla/Data-Structure/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
