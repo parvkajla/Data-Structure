@@ -17,6 +17,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0239-sliding-window-maximum](https://github.com/parvkajla/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
+| [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/parvkajla/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
@@ -117,6 +118,7 @@ Questions, Assignments, Project related to Data Structure.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/parvkajla/Data-Structure/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Hash Table
@@ -175,18 +177,21 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
