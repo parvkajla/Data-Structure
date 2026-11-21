@@ -10,6 +10,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0054-spiral-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/parvkajla/Data-Structure/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/parvkajla/Data-Structure/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/parvkajla/Data-Structure/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parvkajla/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/parvkajla/Data-Structure/tree/master/0162-find-peak-element) |
@@ -34,6 +35,7 @@ Questions, Assignments, Project related to Data Structure.
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/parvkajla/Data-Structure/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/parvkajla/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
@@ -123,6 +125,7 @@ Questions, Assignments, Project related to Data Structure.
 | ------- |
 | [0054-spiral-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/parvkajla/Data-Structure/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/parvkajla/Data-Structure/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
