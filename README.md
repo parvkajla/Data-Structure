@@ -10,6 +10,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0054-spiral-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/parvkajla/Data-Structure/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/parvkajla/Data-Structure/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/parvkajla/Data-Structure/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parvkajla/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/parvkajla/Data-Structure/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/parvkajla/Data-Structure/tree/master/0198-house-robber) |
@@ -49,6 +50,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0062-unique-paths](https://github.com/parvkajla/Data-Structure/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/parvkajla/Data-Structure/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/parvkajla/Data-Structure/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/parvkajla/Data-Structure/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parvkajla/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/parvkajla/Data-Structure/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
@@ -121,6 +123,7 @@ Questions, Assignments, Project related to Data Structure.
 | ------- |
 | [0054-spiral-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/parvkajla/Data-Structure/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/parvkajla/Data-Structure/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
@@ -207,4 +210,12 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/parvkajla/Data-Structure/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/parvkajla/Data-Structure/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
