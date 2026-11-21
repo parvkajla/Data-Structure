@@ -7,6 +7,7 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/parvkajla/Data-Structure/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/parvkajla/Data-Structure/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/parvkajla/Data-Structure/tree/master/0063-unique-paths-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parvkajla/Data-Structure/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -118,6 +119,7 @@ Questions, Assignments, Project related to Data Structure.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/parvkajla/Data-Structure/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
@@ -201,4 +203,8 @@ Questions, Assignments, Project related to Data Structure.
 | [0997-find-the-town-judge](https://github.com/parvkajla/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/parvkajla/Data-Structure/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
