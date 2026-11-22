@@ -80,6 +80,7 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/parvkajla/Data-Structure/tree/master/0062-unique-paths) |
+| [0263-ugly-number](https://github.com/parvkajla/Data-Structure/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/parvkajla/Data-Structure/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
