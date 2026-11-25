@@ -27,6 +27,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/parvkajla/Data-Structure/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/parvkajla/Data-Structure/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/parvkajla/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parvkajla/Data-Structure/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -135,6 +136,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0542-01-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/parvkajla/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
@@ -194,6 +196,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/parvkajla/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -202,12 +205,14 @@ Questions, Assignments, Project related to Data Structure.
 | [0542-01-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/parvkajla/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/parvkajla/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
