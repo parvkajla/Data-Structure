@@ -103,6 +103,7 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/parvkajla/Data-Structure/tree/master/0190-reverse-bits) |
+| [0476-number-complement](https://github.com/parvkajla/Data-Structure/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/parvkajla/Data-Structure/tree/master/0693-binary-number-with-alternating-bits) |
 ## Two Pointers
 |  |
