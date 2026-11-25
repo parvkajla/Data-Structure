@@ -20,6 +20,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0239-sliding-window-maximum](https://github.com/parvkajla/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
+| [0542-01-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/parvkajla/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
@@ -57,6 +58,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0198-house-robber](https://github.com/parvkajla/Data-Structure/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
+| [0542-01-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/parvkajla/Data-Structure/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parvkajla/Data-Structure/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -130,6 +132,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0074-search-a-2d-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/parvkajla/Data-Structure/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -196,6 +199,7 @@ Questions, Assignments, Project related to Data Structure.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parvkajla/Data-Structure/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/parvkajla/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
