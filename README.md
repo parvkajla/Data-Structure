@@ -32,6 +32,7 @@ Questions, Assignments, Project related to Data Structure.
 | [1248-count-number-of-nice-subarrays](https://github.com/parvkajla/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/parvkajla/Data-Structure/tree/master/1254-number-of-closed-islands) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/parvkajla/Data-Structure/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/parvkajla/Data-Structure/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/parvkajla/Data-Structure/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/parvkajla/Data-Structure/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -141,6 +142,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/parvkajla/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/parvkajla/Data-Structure/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/parvkajla/Data-Structure/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
@@ -214,6 +216,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0733-flood-fill](https://github.com/parvkajla/Data-Structure/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/parvkajla/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/parvkajla/Data-Structure/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/parvkajla/Data-Structure/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/parvkajla/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
