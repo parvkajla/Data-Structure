@@ -62,6 +62,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0198-house-robber](https://github.com/parvkajla/Data-Structure/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/parvkajla/Data-Structure/tree/master/0354-russian-doll-envelopes) |
+| [0392-is-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/parvkajla/Data-Structure/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/parvkajla/Data-Structure/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/parvkajla/Data-Structure/tree/master/0877-stone-game) |
@@ -117,6 +118,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0125-valid-palindrome](https://github.com/parvkajla/Data-Structure/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/parvkajla/Data-Structure/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/parvkajla/Data-Structure/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0392-is-subsequence) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/parvkajla/Data-Structure/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
@@ -126,6 +128,7 @@ Questions, Assignments, Project related to Data Structure.
 | [0125-valid-palindrome](https://github.com/parvkajla/Data-Structure/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/parvkajla/Data-Structure/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/parvkajla/Data-Structure/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/parvkajla/Data-Structure/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/parvkajla/Data-Structure/tree/master/0583-delete-operation-for-two-strings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/parvkajla/Data-Structure/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
